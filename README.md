@@ -1,2 +1,3 @@
 # call-graph-plugin-public
-Public repo for IntelliJ Call Graph plugin
+This is the public issue tracker for IntelliJ Call Graph plugin.
+Please feel free to leave comments, feedback, and bug reports, on the Issue tab of this repo.
